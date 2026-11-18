@@ -73,3 +73,20 @@ button:hover {
     margin-top: 12px;
     color: green;
 }
+
+nav {
+    background-color: #1e3a8a;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #93c5fd;
+}
